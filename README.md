@@ -1,2 +1,2 @@
-# PDFtalk-Extract-
+# PDFtalk-Extract
 extracting content from PDFs
